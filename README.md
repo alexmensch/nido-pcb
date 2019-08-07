@@ -13,7 +13,7 @@
 Description           | Qty. | Manufacturer Part Number (MPN)| Notes
 :---------------------|:-----|:------------------------------|:--------------------
 0.1µF capacitor       |1     |C320C104M5U5TA                 |Ceramic
-10kΩ resistor         |4     |CF14JT10K0                     |¼W 1%
+10kΩ resistor         |4     |CF14JT10K0                     |¼W 5% axial
 Signal relay          |1     |HE3621A0510                    |SPST NO 5V unshielded
 BC337 transistor      |1     |BC337-25-AP                    |NPN
 BME280 sensor         |1     |BME280                         |SMD packaging
