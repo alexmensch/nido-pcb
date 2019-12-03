@@ -1,4 +1,4 @@
-*This respository holds the [Eagle](https://www.autodesk.com/products/eagle/overview) schematic and board CAD files for the Nido smart thermostat sensor printed circuit board (PCB). This PCB connect directly to the Raspberry Pi GPIO header for the simplest possible installation. If you're looking for instructions on how to run Nido on a Raspberry Pi, see https://github.com/alexmensch/nido for instructions and the full project background.*
+*This respository holds the [Eagle](https://www.autodesk.com/products/eagle/overview) schematic and board CAD files for the Nido smart thermostat sensor printed circuit board (PCB). This PCB connects directly to the Raspberry Pi GPIO header for the simplest possible installation. If you're looking for instructions on how to run Nido on a Raspberry Pi, see https://github.com/alexmensch/nido for instructions and the full project background.*
 
 ## Nido PCB v2.0 (Top | CAD | Bottom)
 
